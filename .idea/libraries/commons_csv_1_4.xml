@@ -4,8 +4,7 @@
       <root url="jar://$PROJECT_DIR$/lib/commons-csv-1.4.jar!/" />
     </CLASSES>
     <JAVADOC />
-    <SOURCES>
-      <root url="file://$PROJECT_DIR$/src" />
-    </SOURCES>
+
+    <SOURCES />
   </library>
 </component>
