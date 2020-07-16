@@ -78,6 +78,12 @@ public class JobTest {
         assertTrue(testJob.toString().contains("Employer: Data not available"));
     }
 
-
-
+    /**BONUS**/
+    /*@Test
+    public void testJobToStringBonus() {
+        //(Bonus) If a Job object ONLY contains data for the id field,
+        // the method should return, “OOPS! This job does not seem to exist.”
+        System.out.println(job1);
+        //assertEquals(job1.toString(), "OOPS! This job does not seem to exist");
+    }*/
 }
